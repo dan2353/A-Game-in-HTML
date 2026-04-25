@@ -1,0 +1,11 @@
+.box{width:400px;
+height:400px;
+border: 2px solid black;
+position:relative;
+}
+
+#bug {
+  position: absolute;
+  font-size: 30px;
+  cursor: pointer;
+}
